@@ -1,3 +1,3 @@
 # dji-tello-playground
 
-Set of Python based codes to control and interact with the DJI Tello drone.
+Set of Python based codes to control and interact with the DJI Ryze Tello drone.
